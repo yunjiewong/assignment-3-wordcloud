@@ -2,8 +2,8 @@
 This assignment is to use java data stucture to count word frequency in lyrics.
 
 It contains
-- [x] 
-- [x] 
-- [x] 
+- [x] Main.java
+- [x] lyrics.txt
+- [x] output.txt
 
 
