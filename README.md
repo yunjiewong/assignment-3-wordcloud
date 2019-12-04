@@ -1,8 +1,6 @@
 # assignment-3-wordcloud
-#  (Command-Line)
+This assignment is to use java data stucture to 
 
 
 
-## Creating a maven project from scratch
-
-
+## 
