@@ -2,7 +2,7 @@
 This assignment is to use java data stucture to count word frequency in lyrics.
 
 It contains
-- [x] [Main.java](..assignment-3-wordcloud/blob/master/Main.java)
+- [x] [Main.java](../Main.java)
 - [x] [lyrics.txt](..yunjiewong/assignment-3-wordcloud/blob/master/lyrics.txt)
 - [x] [output.txt]()
 
