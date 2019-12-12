@@ -5,6 +5,8 @@ It contains
 - [x] [Main.java](../master/Main.java)
 - [x] [lyrics.txt](../master/lyrics.txt)
 - [x] [output.txt](../master/output.txt)
+- [x] [wordcloud.ipynb](../master/wordcloud.ipynb)
+- [x] [t.html](../master/t.html)
 
 ---
 + Main.java
@@ -17,4 +19,10 @@ It contains
 > output word frequency file
 
 ---
++ wordcloud.ipynb
+> use python to generate wordcloud 
+
++ t.html
+> webpage
+
 
